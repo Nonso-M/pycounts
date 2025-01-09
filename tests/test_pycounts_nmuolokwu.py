@@ -1,1 +1,1 @@
-from pycounts_nmuolokwu import pycounts_nmuolokwu
+from pycounts import pycounts
