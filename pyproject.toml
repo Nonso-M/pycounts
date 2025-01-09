@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycounts_nmuolokwu"
+name = "pycounts"
 version = "0.1.0"
 description = "Calculate word counts in a text file!"
 authors = ["Nonso Ebele-Muolokwu"]
@@ -8,6 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+matplotlib = "^3.4.3"
 
 
 [build-system]
